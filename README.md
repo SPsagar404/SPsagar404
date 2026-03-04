@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-💼 Full Stack Developer with **2.5+ years of experience**  
+💼 Full Stack Developer <!-- with **2.5+ years of experience** -->  
 🔥 Specialized in building **scalable Microservices architectures**  
 ⚙️ Strong in **Spring Boot, Security, Kafka, Redis, JWT, WebSockets**  
 🌐 Frontend experience with **React JS, Redux, TypeScript**  
